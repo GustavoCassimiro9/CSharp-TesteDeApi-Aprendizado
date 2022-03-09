@@ -1,0 +1,5 @@
+{
+    "petStoreService-baseUrl": "https://petstore.swagger.io/v2/",
+    "orderId": 3 ,
+    "username":  "string"
+}
